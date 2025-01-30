@@ -76,8 +76,8 @@ Now,
 open up localhost:
 ```
 "🔗" Usage  
-- Open your browser at ```http://localhost: 8501.
-- start chating with the Zomato Chat Bot.
+- Open your browser at ```http://localhost: 8501```
+- start chating with the Zomato ChatBot.
 - click clear chat response to reset the conversation.
 
 
