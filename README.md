@@ -23,6 +23,12 @@ git clone <copied link from github>
 cd <Hit folder name>
 ```
 
+"🔗" Installation and Prerequisites.
+
+ - Python 3.8+
+ - OpenAI
+ - Chainlit
+
 ### STEP 01- Create a conda environment after opening the repository
 
 ```cmd
@@ -69,6 +75,10 @@ Now,
 ```cmd
 open up localhost:
 ```
+"🔗" Usage  
+- Open your browser at ```http://localhost: 8501.
+- start chating with the Zomato Chat Bot.
+- click clear chat response to reset the conversation.
 
 
 ### Techstack Used:
